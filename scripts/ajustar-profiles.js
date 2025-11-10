@@ -10,6 +10,12 @@ if (!fs.existsSync(file)) {
 
 let profiles = JSON.parse(fs.readFileSync(file, "utf-8"));
 
+function ensure(value, fallback) {
+  if (Array.isArray(value)) return value.length > 0 ? value : fallback;
+  if (typeof value === "string") return value.trim() !== "" ? value : fallback;
+  return value ?? fallback;
+}
+
 profiles = profiles.map((p) => ({
   id: p.id ?? Math.floor(Math.random() * 10000),
   nome: p.nome ?? "Nome não informado",

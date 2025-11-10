@@ -44,9 +44,9 @@ profiles = profiles.map((p) => ({
       descricao: "Projeto acadêmico para portfólio.",
     },
   ],
-  certificacoes: p.certificacoes ?? ["Scrum Fundamentals Certified"],
-  idiomas: p.idiomas ?? [{ idioma: "Inglês", nivel: "Intermediário" }],
-  areaInteresses: p.areaInteresses ?? ["Educação", "Tecnologia"],
+  certificacoes: ensure(p.certificacoes ?? ["Scrum Fundamentals Certified"]),
+  idiomas: ensure(p.idiomas ?? [{ idioma: "Inglês", nivel: "Intermediário" }]),
+  areaInteresses: ensure(p.areaInteresses ?? ["Educação", "Tecnologia"]),
 }));
 
 fs.writeFileSync(file, JSON.stringify(profiles, null, 2), "utf-8");

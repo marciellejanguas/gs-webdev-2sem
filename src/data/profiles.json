@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "nome": "Exemplo User",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React","Node.js","TypeScript"],
+    "softSkills": ["Comunicação","Trabalho em equipe"],
+    "experiencias": [{"empresa":"Empresa Exemplo","cargo":"Frontend","inicio":"2020-03","fim":"2023-12","descricao":"Desenvolvimento de interfaces."}],
+    "formacao": [{"curso":"BSc Computer Science","instituicao":"USP","ano":2019}],
+    "projetos": [{"titulo":"Plataforma Demo","link":"","descricao":"Projeto de exemplo."}],
+    "certificacoes": [],
+    "idiomas": [{"idioma":"Inglês","nivel":"Avançado"}],
+    "areaInteresses": ["IA","UX"]
+  }
+]

@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "nome": "Jo�o Fernandes 1",
+    "nome": "João Fernandes 1",
     "foto": "https://i.pravatar.cc/150?img=2",
     "cargo": "Data Scientist",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Porto Alegre/RS",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -13,7 +13,7 @@
     ],
     "softSkills": [
       "Trabalho em equipe",
-      "Comunica��o"
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -21,7 +21,7 @@
         "cargo": "Frontend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -41,22 +41,22 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
     "id": 2,
-    "nome": "Jo�o Fernandes 2",
+    "nome": "João Fernandes 2",
     "foto": "https://i.pravatar.cc/150?img=3",
     "cargo": "UX Researcher",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -67,7 +67,7 @@
     ],
     "softSkills": [
       "Criatividade",
-      "Comunica��o"
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -75,7 +75,7 @@
         "cargo": "Frontend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -95,14 +95,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -110,7 +110,7 @@
     "nome": "Isabela Castro 3",
     "foto": "https://i.pravatar.cc/150?img=4",
     "cargo": "DevOps",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Salvador/BA",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -119,8 +119,8 @@
       "Jest"
     ],
     "softSkills": [
-      "Organiza��o",
-      "Lideran�a"
+      "Organização",
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -128,7 +128,7 @@
         "cargo": "Frontend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -148,14 +148,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -163,7 +163,7 @@
     "nome": "Karina Ramos 4",
     "foto": "https://i.pravatar.cc/150?img=5",
     "cargo": "Backend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Recife/PE",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -172,7 +172,7 @@
       "TypeScript"
     ],
     "softSkills": [
-      "Lideran�a",
+      "Liderança",
       "Trabalho em equipe"
     ],
     "experiencias": [
@@ -181,7 +181,7 @@
         "cargo": "DevOps",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -201,14 +201,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -216,7 +216,7 @@
     "nome": "Ursula Pinto 5",
     "foto": "https://i.pravatar.cc/150?img=6",
     "cargo": "Backend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Fortaleza/CE",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -225,8 +225,8 @@
       "React"
     ],
     "softSkills": [
-      "Lideran�a",
-      "Organiza��o"
+      "Liderança",
+      "Organização"
     ],
     "experiencias": [
       {
@@ -234,7 +234,7 @@
         "cargo": "Engenheira de Software",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -254,14 +254,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -269,7 +269,7 @@
     "nome": "Sofia Melo 6",
     "foto": "https://i.pravatar.cc/150?img=7",
     "cargo": "Product Designer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Porto Alegre/RS",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -279,7 +279,7 @@
       "HTML"
     ],
     "softSkills": [
-      "Organiza��o",
+      "Organização",
       "Trabalho em equipe"
     ],
     "experiencias": [
@@ -288,7 +288,7 @@
         "cargo": "Frontend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -308,14 +308,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -323,7 +323,7 @@
     "nome": "Mariana Oliveira 7",
     "foto": "https://i.pravatar.cc/150?img=8",
     "cargo": "Analista de Dados",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Curitiba/PR",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -334,8 +334,8 @@
       "Docker"
     ],
     "softSkills": [
-      "Organiza��o",
-      "Comunica��o"
+      "Organização",
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -343,7 +343,7 @@
         "cargo": "Data Scientist",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -363,14 +363,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -378,7 +378,7 @@
     "nome": "Ana Costa 8",
     "foto": "https://i.pravatar.cc/150?img=9",
     "cargo": "Frontend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Curitiba/PR",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -388,8 +388,8 @@
       "React"
     ],
     "softSkills": [
-      "Lideran�a",
-      "Comunica��o"
+      "Liderança",
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -397,7 +397,7 @@
         "cargo": "Frontend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -417,14 +417,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -432,7 +432,7 @@
     "nome": "Wanda Costa 9",
     "foto": "https://i.pravatar.cc/150?img=10",
     "cargo": "Backend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Salvador/BA",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -440,7 +440,7 @@
       "AWS"
     ],
     "softSkills": [
-      "Lideran�a",
+      "Liderança",
       "Criatividade"
     ],
     "experiencias": [
@@ -449,7 +449,7 @@
         "cargo": "Frontend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -469,14 +469,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -484,16 +484,16 @@
     "nome": "Ana Costa 10",
     "foto": "https://i.pravatar.cc/150?img=11",
     "cargo": "Data Scientist",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
-    "localizacao": "S�o Paulo/SP",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
+    "localizacao": "São Paulo/SP",
     "area": "Design",
     "habilidadesTecnicas": [
       "Figma",
       "Tailwind"
     ],
     "softSkills": [
-      "Comunica��o",
-      "Organiza��o"
+      "Comunicação",
+      "Organização"
     ],
     "experiencias": [
       {
@@ -501,7 +501,7 @@
         "cargo": "Frontend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -521,14 +521,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -536,7 +536,7 @@
     "nome": "Bruno Lima 11",
     "foto": "https://i.pravatar.cc/150?img=12",
     "cargo": "DevOps",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -547,8 +547,8 @@
       "React"
     ],
     "softSkills": [
-      "Organiza��o",
-      "Lideran�a"
+      "Organização",
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -556,7 +556,7 @@
         "cargo": "Engenheira de Software",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -576,14 +576,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -591,7 +591,7 @@
     "nome": "Ana Costa 12",
     "foto": "https://i.pravatar.cc/150?img=13",
     "cargo": "Frontend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -601,8 +601,8 @@
       "React"
     ],
     "softSkills": [
-      "Lideran�a",
-      "Organiza��o"
+      "Liderança",
+      "Organização"
     ],
     "experiencias": [
       {
@@ -610,7 +610,7 @@
         "cargo": "QA Analyst",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -630,14 +630,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -645,7 +645,7 @@
     "nome": "Ana Costa 13",
     "foto": "https://i.pravatar.cc/150?img=14",
     "cargo": "Backend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Fortaleza/CE",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -654,7 +654,7 @@
       "Docker"
     ],
     "softSkills": [
-      "Organiza��o",
+      "Organização",
       "Trabalho em equipe"
     ],
     "experiencias": [
@@ -663,7 +663,7 @@
         "cargo": "Engenheira de Software",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -683,14 +683,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -698,7 +698,7 @@
     "nome": "Mariana Oliveira 14",
     "foto": "https://i.pravatar.cc/150?img=15",
     "cargo": "Data Scientist",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Curitiba/PR",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -706,8 +706,8 @@
       "Figma"
     ],
     "softSkills": [
-      "Lideran�a",
-      "Organiza��o"
+      "Liderança",
+      "Organização"
     ],
     "experiencias": [
       {
@@ -715,7 +715,7 @@
         "cargo": "Mobile Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -735,14 +735,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -750,7 +750,7 @@
     "nome": "Zeca Freitas 15",
     "foto": "https://i.pravatar.cc/150?img=16",
     "cargo": "Data Scientist",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Recife/PE",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -770,7 +770,7 @@
         "cargo": "DevOps",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -790,14 +790,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -805,7 +805,7 @@
     "nome": "Zeca Freitas 16",
     "foto": "https://i.pravatar.cc/150?img=17",
     "cargo": "Engenheira de Software",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Recife/PE",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -815,7 +815,7 @@
       "Jest"
     ],
     "softSkills": [
-      "Organiza��o",
+      "Organização",
       "Trabalho em equipe"
     ],
     "experiencias": [
@@ -824,7 +824,7 @@
         "cargo": "Engenheira de Software",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -844,14 +844,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -859,16 +859,16 @@
     "nome": "Vitor Gomes 17",
     "foto": "https://i.pravatar.cc/150?img=18",
     "cargo": "Backend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
-    "localizacao": "S�o Paulo/SP",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
+    "localizacao": "São Paulo/SP",
     "area": "Design",
     "habilidadesTecnicas": [
       "AWS",
       "TypeScript"
     ],
     "softSkills": [
-      "Comunica��o",
-      "Organiza��o"
+      "Comunicação",
+      "Organização"
     ],
     "experiencias": [
       {
@@ -876,7 +876,7 @@
         "cargo": "Analista de Dados",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -896,14 +896,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -911,7 +911,7 @@
     "nome": "Yara Dias 18",
     "foto": "https://i.pravatar.cc/150?img=19",
     "cargo": "Engenheira de Software",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Curitiba/PR",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -921,7 +921,7 @@
     ],
     "softSkills": [
       "Trabalho em equipe",
-      "Comunica��o"
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -929,7 +929,7 @@
         "cargo": "Data Scientist",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -949,14 +949,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -964,8 +964,8 @@
     "nome": "Sofia Melo 19",
     "foto": "https://i.pravatar.cc/150?img=20",
     "cargo": "Engenheira de Software",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
-    "localizacao": "S�o Paulo/SP",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
+    "localizacao": "São Paulo/SP",
     "area": "Design",
     "habilidadesTecnicas": [
       "Figma",
@@ -973,7 +973,7 @@
     ],
     "softSkills": [
       "Criatividade",
-      "Lideran�a"
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -981,7 +981,7 @@
         "cargo": "DevOps",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1001,14 +1001,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1016,16 +1016,16 @@
     "nome": "Felipe Rocha 20",
     "foto": "https://i.pravatar.cc/150?img=21",
     "cargo": "UX Researcher",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
-    "localizacao": "S�o Paulo/SP",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
+    "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
       "Figma",
       "HTML"
     ],
     "softSkills": [
-      "Organiza��o",
-      "Comunica��o"
+      "Organização",
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -1033,7 +1033,7 @@
         "cargo": "Backend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1053,14 +1053,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1068,7 +1068,7 @@
     "nome": "Bruno Lima 21",
     "foto": "https://i.pravatar.cc/150?img=22",
     "cargo": "Analista de Dados",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Salvador/BA",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -1077,7 +1077,7 @@
       "TypeScript"
     ],
     "softSkills": [
-      "Comunica��o",
+      "Comunicação",
       "Trabalho em equipe"
     ],
     "experiencias": [
@@ -1086,7 +1086,7 @@
         "cargo": "DevOps",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1106,14 +1106,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1121,7 +1121,7 @@
     "nome": "Xavier Lopes 22",
     "foto": "https://i.pravatar.cc/150?img=23",
     "cargo": "Analista de Dados",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -1131,8 +1131,8 @@
       "Express"
     ],
     "softSkills": [
-      "Comunica��o",
-      "Lideran�a"
+      "Comunicação",
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -1140,7 +1140,7 @@
         "cargo": "Data Scientist",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1160,14 +1160,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1175,7 +1175,7 @@
     "nome": "Henrique Silva 23",
     "foto": "https://i.pravatar.cc/150?img=24",
     "cargo": "Mobile Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Curitiba/PR",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -1183,7 +1183,7 @@
       "React"
     ],
     "softSkills": [
-      "Organiza��o",
+      "Organização",
       "Criatividade"
     ],
     "experiencias": [
@@ -1192,7 +1192,7 @@
         "cargo": "QA Analyst",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1212,14 +1212,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1227,8 +1227,8 @@
     "nome": "Ursula Pinto 24",
     "foto": "https://i.pravatar.cc/150?img=25",
     "cargo": "Frontend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
-    "localizacao": "S�o Paulo/SP",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
+    "localizacao": "São Paulo/SP",
     "area": "Design",
     "habilidadesTecnicas": [
       "HTML",
@@ -1238,8 +1238,8 @@
       "Figma"
     ],
     "softSkills": [
-      "Comunica��o",
-      "Lideran�a"
+      "Comunicação",
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -1247,7 +1247,7 @@
         "cargo": "Analista de Dados",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1267,14 +1267,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1282,7 +1282,7 @@
     "nome": "Wanda Costa 25",
     "foto": "https://i.pravatar.cc/150?img=26",
     "cargo": "Data Scientist",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -1293,8 +1293,8 @@
       "Figma"
     ],
     "softSkills": [
-      "Comunica��o",
-      "Organiza��o"
+      "Comunicação",
+      "Organização"
     ],
     "experiencias": [
       {
@@ -1302,7 +1302,7 @@
         "cargo": "DevOps",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1322,14 +1322,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1337,7 +1337,7 @@
     "nome": "Isabela Castro 26",
     "foto": "https://i.pravatar.cc/150?img=27",
     "cargo": "Frontend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Fortaleza/CE",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -1345,7 +1345,7 @@
       "HTML"
     ],
     "softSkills": [
-      "Organiza��o",
+      "Organização",
       "Trabalho em equipe"
     ],
     "experiencias": [
@@ -1354,7 +1354,7 @@
         "cargo": "Engenheira de Software",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1374,14 +1374,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1389,7 +1389,7 @@
     "nome": "Diego Pereira 27",
     "foto": "https://i.pravatar.cc/150?img=28",
     "cargo": "Backend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -1399,8 +1399,8 @@
       "AWS"
     ],
     "softSkills": [
-      "Lideran�a",
-      "Comunica��o"
+      "Liderança",
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -1408,7 +1408,7 @@
         "cargo": "QA Analyst",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1428,14 +1428,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1443,7 +1443,7 @@
     "nome": "Henrique Silva 28",
     "foto": "https://i.pravatar.cc/150?img=29",
     "cargo": "Product Designer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -1452,8 +1452,8 @@
       "Figma"
     ],
     "softSkills": [
-      "Organiza��o",
-      "Comunica��o"
+      "Organização",
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -1461,7 +1461,7 @@
         "cargo": "Mobile Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1481,14 +1481,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1496,7 +1496,7 @@
     "nome": "Jo�o Fernandes 29",
     "foto": "https://i.pravatar.cc/150?img=30",
     "cargo": "UX Researcher",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Porto Alegre/RS",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -1505,7 +1505,7 @@
     ],
     "softSkills": [
       "Trabalho em equipe",
-      "Organiza��o"
+      "Organização"
     ],
     "experiencias": [
       {
@@ -1513,7 +1513,7 @@
         "cargo": "UX Researcher",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1533,14 +1533,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1548,7 +1548,7 @@
     "nome": "Lucas Moreira 30",
     "foto": "https://i.pravatar.cc/150?img=31",
     "cargo": "DevOps",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Porto Alegre/RS",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -1565,7 +1565,7 @@
         "cargo": "Data Scientist",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1585,14 +1585,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1600,7 +1600,7 @@
     "nome": "Diego Pereira 31",
     "foto": "https://i.pravatar.cc/150?img=32",
     "cargo": "Data Scientist",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Salvador/BA",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -1620,7 +1620,7 @@
         "cargo": "Frontend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1640,14 +1640,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1655,7 +1655,7 @@
     "nome": "Gabriela Alves 32",
     "foto": "https://i.pravatar.cc/150?img=33",
     "cargo": "Engenheira de Software",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Porto Alegre/RS",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -1663,7 +1663,7 @@
       "Tailwind"
     ],
     "softSkills": [
-      "Comunica��o",
+      "Comunicação",
       "Criatividade"
     ],
     "experiencias": [
@@ -1672,7 +1672,7 @@
         "cargo": "Backend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1692,14 +1692,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1707,7 +1707,7 @@
     "nome": "Lucas Moreira 33",
     "foto": "https://i.pravatar.cc/150?img=34",
     "cargo": "UX Researcher",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Curitiba/PR",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -1716,7 +1716,7 @@
     ],
     "softSkills": [
       "Trabalho em equipe",
-      "Comunica��o"
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -1724,7 +1724,7 @@
         "cargo": "Analista de Dados",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1744,14 +1744,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1759,7 +1759,7 @@
     "nome": "Yara Dias 34",
     "foto": "https://i.pravatar.cc/150?img=35",
     "cargo": "Product Designer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -1769,7 +1769,7 @@
     ],
     "softSkills": [
       "Criatividade",
-      "Lideran�a"
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -1777,7 +1777,7 @@
         "cargo": "QA Analyst",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1797,14 +1797,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1812,7 +1812,7 @@
     "nome": "Bruno Lima 35",
     "foto": "https://i.pravatar.cc/150?img=36",
     "cargo": "UX Researcher",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Porto Alegre/RS",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -1821,7 +1821,7 @@
       "TypeScript"
     ],
     "softSkills": [
-      "Lideran�a",
+      "Liderança",
       "Criatividade"
     ],
     "experiencias": [
@@ -1830,7 +1830,7 @@
         "cargo": "Backend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1850,14 +1850,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1865,8 +1865,8 @@
     "nome": "Karina Ramos 36",
     "foto": "https://i.pravatar.cc/150?img=37",
     "cargo": "Mobile Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
-    "localizacao": "S�o Paulo/SP",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
+    "localizacao": "São Paulo/SP",
     "area": "Design",
     "habilidadesTecnicas": [
       "Express",
@@ -1876,7 +1876,7 @@
     ],
     "softSkills": [
       "Criatividade",
-      "Comunica��o"
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -1884,7 +1884,7 @@
         "cargo": "UX Researcher",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1904,14 +1904,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1919,7 +1919,7 @@
     "nome": "Felipe Rocha 37",
     "foto": "https://i.pravatar.cc/150?img=38",
     "cargo": "QA Analyst",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Fortaleza/CE",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -1927,8 +1927,8 @@
       "Express"
     ],
     "softSkills": [
-      "Organiza��o",
-      "Lideran�a"
+      "Organização",
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -1936,7 +1936,7 @@
         "cargo": "Mobile Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -1956,14 +1956,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -1971,7 +1971,7 @@
     "nome": "Nathan Sousa 38",
     "foto": "https://i.pravatar.cc/150?img=39",
     "cargo": "Analista de Dados",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Fortaleza/CE",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -1982,7 +1982,7 @@
       "Tailwind"
     ],
     "softSkills": [
-      "Organiza��o",
+      "Organização",
       "Criatividade"
     ],
     "experiencias": [
@@ -1991,7 +1991,7 @@
         "cargo": "Backend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2011,14 +2011,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2026,7 +2026,7 @@
     "nome": "Paulo Barros 39",
     "foto": "https://i.pravatar.cc/150?img=40",
     "cargo": "DevOps",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -2037,8 +2037,8 @@
       "SQL"
     ],
     "softSkills": [
-      "Organiza��o",
-      "Comunica��o"
+      "Organização",
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -2046,7 +2046,7 @@
         "cargo": "DevOps",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2066,14 +2066,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2081,7 +2081,7 @@
     "nome": "Qu�sia Nunes 40",
     "foto": "https://i.pravatar.cc/150?img=41",
     "cargo": "DevOps",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Porto Alegre/RS",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -2091,8 +2091,8 @@
       "SQL"
     ],
     "softSkills": [
-      "Organiza��o",
-      "Comunica��o"
+      "Organização",
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -2100,7 +2100,7 @@
         "cargo": "Backend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2120,14 +2120,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2135,7 +2135,7 @@
     "nome": "Eva Martins 41",
     "foto": "https://i.pravatar.cc/150?img=42",
     "cargo": "Data Scientist",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -2146,8 +2146,8 @@
       "AWS"
     ],
     "softSkills": [
-      "Comunica��o",
-      "Lideran�a"
+      "Comunicação",
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -2155,7 +2155,7 @@
         "cargo": "QA Analyst",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2175,14 +2175,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2190,7 +2190,7 @@
     "nome": "Nathan Sousa 42",
     "foto": "https://i.pravatar.cc/150?img=43",
     "cargo": "Analista de Dados",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -2199,7 +2199,7 @@
     ],
     "softSkills": [
       "Trabalho em equipe",
-      "Lideran�a"
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -2207,7 +2207,7 @@
         "cargo": "Data Scientist",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2227,14 +2227,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2242,7 +2242,7 @@
     "nome": "Paulo Barros 43",
     "foto": "https://i.pravatar.cc/150?img=44",
     "cargo": "Frontend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2251,8 +2251,8 @@
       "AWS"
     ],
     "softSkills": [
-      "Comunica��o",
-      "Lideran�a"
+      "Comunicação",
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -2260,7 +2260,7 @@
         "cargo": "Analista de Dados",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2280,14 +2280,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2295,7 +2295,7 @@
     "nome": "Gabriela Alves 44",
     "foto": "https://i.pravatar.cc/150?img=45",
     "cargo": "Analista de Dados",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2304,8 +2304,8 @@
       "Python"
     ],
     "softSkills": [
-      "Comunica��o",
-      "Organiza��o"
+      "Comunicação",
+      "Organização"
     ],
     "experiencias": [
       {
@@ -2313,7 +2313,7 @@
         "cargo": "Mobile Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2333,14 +2333,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2348,7 +2348,7 @@
     "nome": "Olivia Lima 45",
     "foto": "https://i.pravatar.cc/150?img=46",
     "cargo": "UX Researcher",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Fortaleza/CE",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2357,7 +2357,7 @@
       "AWS"
     ],
     "softSkills": [
-      "Organiza��o",
+      "Organização",
       "Trabalho em equipe"
     ],
     "experiencias": [
@@ -2366,7 +2366,7 @@
         "cargo": "Frontend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2386,14 +2386,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2401,7 +2401,7 @@
     "nome": "Eva Martins 46",
     "foto": "https://i.pravatar.cc/150?img=47",
     "cargo": "Analista de Dados",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Curitiba/PR",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -2410,7 +2410,7 @@
       "Express"
     ],
     "softSkills": [
-      "Organiza��o",
+      "Organização",
       "Trabalho em equipe"
     ],
     "experiencias": [
@@ -2419,7 +2419,7 @@
         "cargo": "Engenheira de Software",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2439,14 +2439,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2454,7 +2454,7 @@
     "nome": "Thiago Andrade 47",
     "foto": "https://i.pravatar.cc/150?img=48",
     "cargo": "Frontend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Recife/PE",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2463,7 +2463,7 @@
     ],
     "softSkills": [
       "Trabalho em equipe",
-      "Lideran�a"
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -2471,7 +2471,7 @@
         "cargo": "Analista de Dados",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2491,14 +2491,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2506,7 +2506,7 @@
     "nome": "Xavier Lopes 48",
     "foto": "https://i.pravatar.cc/150?img=49",
     "cargo": "Data Scientist",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Salvador/BA",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2514,7 +2514,7 @@
       "CSS"
     ],
     "softSkills": [
-      "Comunica��o",
+      "Comunicação",
       "Criatividade"
     ],
     "experiencias": [
@@ -2523,7 +2523,7 @@
         "cargo": "Frontend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2543,14 +2543,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2558,7 +2558,7 @@
     "nome": "Diego Pereira 49",
     "foto": "https://i.pravatar.cc/150?img=50",
     "cargo": "Analista de Dados",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Salvador/BA",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2568,8 +2568,8 @@
       "Express"
     ],
     "softSkills": [
-      "Lideran�a",
-      "Comunica��o"
+      "Liderança",
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -2577,7 +2577,7 @@
         "cargo": "UX Researcher",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2597,14 +2597,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2612,7 +2612,7 @@
     "nome": "Nathan Sousa 50",
     "foto": "https://i.pravatar.cc/150?img=51",
     "cargo": "Engenheira de Software",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Design",
     "habilidadesTecnicas": [
@@ -2620,7 +2620,7 @@
       "Docker"
     ],
     "softSkills": [
-      "Comunica��o",
+      "Comunicação",
       "Trabalho em equipe"
     ],
     "experiencias": [
@@ -2629,7 +2629,7 @@
         "cargo": "UX Researcher",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2649,14 +2649,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2664,7 +2664,7 @@
     "nome": "Qu�sia Nunes 51",
     "foto": "https://i.pravatar.cc/150?img=52",
     "cargo": "Mobile Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Fortaleza/CE",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2674,8 +2674,8 @@
       "SQL"
     ],
     "softSkills": [
-      "Lideran�a",
-      "Comunica��o"
+      "Liderança",
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -2683,7 +2683,7 @@
         "cargo": "Product Designer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2703,14 +2703,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2718,7 +2718,7 @@
     "nome": "Isabela Castro 52",
     "foto": "https://i.pravatar.cc/150?img=53",
     "cargo": "Mobile Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Curitiba/PR",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2729,7 +2729,7 @@
       "HTML"
     ],
     "softSkills": [
-      "Comunica��o",
+      "Comunicação",
       "Trabalho em equipe"
     ],
     "experiencias": [
@@ -2738,7 +2738,7 @@
         "cargo": "Backend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2758,14 +2758,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2773,7 +2773,7 @@
     "nome": "Ursula Pinto 53",
     "foto": "https://i.pravatar.cc/150?img=54",
     "cargo": "Analista de Dados",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2784,8 +2784,8 @@
       "Node.js"
     ],
     "softSkills": [
-      "Organiza��o",
-      "Comunica��o"
+      "Organização",
+      "Comunicação"
     ],
     "experiencias": [
       {
@@ -2793,7 +2793,7 @@
         "cargo": "Product Designer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2813,14 +2813,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2828,7 +2828,7 @@
     "nome": "Yara Dias 54",
     "foto": "https://i.pravatar.cc/150?img=55",
     "cargo": "Mobile Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Porto Alegre/RS",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2839,7 +2839,7 @@
     ],
     "softSkills": [
       "Trabalho em equipe",
-      "Lideran�a"
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -2847,7 +2847,7 @@
         "cargo": "Mobile Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2867,14 +2867,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2882,7 +2882,7 @@
     "nome": "Qu�sia Nunes 55",
     "foto": "https://i.pravatar.cc/150?img=56",
     "cargo": "QA Analyst",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2893,7 +2893,7 @@
       "Jest"
     ],
     "softSkills": [
-      "Comunica��o",
+      "Comunicação",
       "Criatividade"
     ],
     "experiencias": [
@@ -2902,7 +2902,7 @@
         "cargo": "Frontend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2922,14 +2922,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2937,7 +2937,7 @@
     "nome": "Bruno Lima 56",
     "foto": "https://i.pravatar.cc/150?img=57",
     "cargo": "UX Researcher",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2947,8 +2947,8 @@
       "Git"
     ],
     "softSkills": [
-      "Organiza��o",
-      "Lideran�a"
+      "Organização",
+      "Liderança"
     ],
     "experiencias": [
       {
@@ -2956,7 +2956,7 @@
         "cargo": "Frontend Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -2976,14 +2976,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -2991,7 +2991,7 @@
     "nome": "Bruno Lima 57",
     "foto": "https://i.pravatar.cc/150?img=58",
     "cargo": "Frontend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Fortaleza/CE",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -2999,7 +2999,7 @@
       "TypeScript"
     ],
     "softSkills": [
-      "Organiza��o",
+      "Organização",
       "Trabalho em equipe"
     ],
     "experiencias": [
@@ -3008,7 +3008,7 @@
         "cargo": "Data Scientist",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -3028,14 +3028,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -3043,7 +3043,7 @@
     "nome": "Mariana Oliveira 58",
     "foto": "https://i.pravatar.cc/150?img=59",
     "cargo": "Frontend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Porto Alegre/RS",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -3054,7 +3054,7 @@
     ],
     "softSkills": [
       "Criatividade",
-      "Organiza��o"
+      "Organização"
     ],
     "experiencias": [
       {
@@ -3062,7 +3062,7 @@
         "cargo": "Analista de Dados",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -3082,14 +3082,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -3097,8 +3097,8 @@
     "nome": "Gabriela Alves 59",
     "foto": "https://i.pravatar.cc/150?img=60",
     "cargo": "UX Researcher",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
-    "localizacao": "S�o Paulo/SP",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
+    "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
       "Python",
@@ -3109,7 +3109,7 @@
     ],
     "softSkills": [
       "Trabalho em equipe",
-      "Organiza��o"
+      "Organização"
     ],
     "experiencias": [
       {
@@ -3117,7 +3117,7 @@
         "cargo": "Data Scientist",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -3137,14 +3137,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   },
   {
@@ -3152,7 +3152,7 @@
     "nome": "Karina Ramos 60",
     "foto": "https://i.pravatar.cc/150?img=61",
     "cargo": "Backend Developer",
-    "resumo": "Profissional com experi�ncia em projetos de tecnologia, foco em colabora��o e entrega de valor.",
+    "resumo": "Profissional com experiência em projetos de tecnologia, foco em colaboração e entrega de valor.",
     "localizacao": "Recife/PE",
     "area": "Desenvolvimento",
     "habilidadesTecnicas": [
@@ -3161,7 +3161,7 @@
       "TypeScript"
     ],
     "softSkills": [
-      "Organiza��o",
+      "Organização",
       "Criatividade"
     ],
     "experiencias": [
@@ -3170,7 +3170,7 @@
         "cargo": "Mobile Developer",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atua��o em projetos �geis."
+        "descricao": "Atuação em projetos ágeis."
       }
     ],
     "formacao": [
@@ -3190,14 +3190,14 @@
     "certificacoes": [],
     "idiomas": [
       {
-        "idioma": "Ingl�s",
-        "nivel": "Avan�ado"
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ],
     "areaInteresses": [
       "IA",
       "UX",
-      "Educa��o"
+      "Educação"
     ]
   }
 ]

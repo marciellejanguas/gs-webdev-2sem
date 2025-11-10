@@ -134,7 +134,7 @@ export default function App() {
             <div key={p.id}>
               <ProfileCard p={p} onOpen={openProfile} />
               <div className="mt-2 text-xs text-slate-400">
-                Recomenda��es: {recommends[p.id] || 0}
+                Recomendações: {recommends[p.id] || 0}
               </div>
             </div>
           ))}

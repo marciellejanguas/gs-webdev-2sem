@@ -1,6 +1,6 @@
 # GS - Front-End Project (O Futuro do Trabalho)
 
-# Resumo do projeto
+## Resumo do projeto
 
 O projeto **O Futuro do Trabalho — Rede de Talentos** tem como objetivo criar uma aplicação web interativa que conecta e recomenda profissionais de diversas áreas, simulando uma pequena rede de perfis inspirada em plataformas como LinkedIn e Glassdoor.
 
@@ -28,21 +28,21 @@ O usuário pode:
 - Alternar entre **tema claro e escuro**;  
 - Visualizar recomendações salvas mesmo após atualizar a página.
 
-# Link do deploy
+## Link do deploy
 
 https://gs-webdev-2sem.vercel.app/
 
-# Link do repositório
+## Link do repositório
 
 https://github.com/marciellejanguas/gs-webdev-2sem
 
-# Nomes e Rms
+## Nomes e Rms
 
 Marcielle Janguas Pina Carvalho - RM: 561505
 
-# Instalação do projeto, passo-a-passo.
+## Instalação do projeto, passo-a-passo.
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - React + Vite
 - TailwindCSS
@@ -51,7 +51,7 @@ Marcielle Janguas Pina Carvalho - RM: 561505
 - JavaScript
 - HTML5 / CSS
 
-# Funcionalidades
+## Funcionalidades
 
 - Visualização de perfis (cards) com informações básicas
 - Filtros: por nome, área, cidade e tecnologia
@@ -61,7 +61,7 @@ Marcielle Janguas Pina Carvalho - RM: 561505
 - Script para gerar 60 perfis de exemplo (scripts/generate-profiles.js)
 - Layout responsivo e moderno (hover, sombras, transições)
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 gs-webdev-2sem/
 ├─ public/
 ├─ scripts/
@@ -82,34 +82,34 @@ gs-webdev-2sem/
 ├─ postcss.config.cjs
 └─ README.md
 
-# Pré-requisitos
+## Pré-requisitos
 
 Node.js v18+
 npm
 
-# Verificar versões:
+## Verificar versões:
 
 node -v
 npm -v
 git --version
 
-# Como obter o projeto
+## Como obter o projeto
 
 git clone https://github.com/marciellejanguas/gs-webdev-2sem
 cd gs-webdev-2sem
 
-# Instalar dependências
+## Instalar dependências
 
 No diretório do projeto:
 
 npm install
 
-# Gerar dados de teste (opcional)
+## Gerar dados de teste (opcional)
 
 Gera 60 perfis falsos em src/data/profiles.json:
 node scripts/generate-profiles.js
 saída esperada: Gerados 60 perfis em src/data/profiles.json
 
-# Executar em modo desenvolvimento
+## Executar em modo desenvolvimento
 
 npm run dev

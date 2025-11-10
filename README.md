@@ -89,9 +89,9 @@ npm
 
 ## Verificar versões:
 
-node -v
-npm -v
-git --version
+- node -v
+- npm -v
+- git --version
 
 ## Como obter o projeto
 

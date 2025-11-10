@@ -1,5 +1,7 @@
 import React, { useEffect, useMemo, useState } from "react";
-const [recommends, setRecommends] = useState(() => {
+
+export default function App() {
+  const [recommends, setRecommends] = useState(() => {
   try {
     return JSON.parse(localStorage.getItem("recommends") || "{}");
   } catch {
@@ -145,3 +147,4 @@ return (
     )}
   </div>
 );
+}

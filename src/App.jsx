@@ -1,6 +1,13 @@
 import React, { useEffect, useMemo, useState } from "react";
 
 export default function App() {
+const [profiles, setProfiles] = useState([]);
+  const [query, setQuery] = useState("");
+  const [areaFilter, setAreaFilter] = useState("");
+  const [cityFilter, setCityFilter] = useState("");
+  const [techFilter, setTechFilter] = useState("");
+  const [selected, setSelected] = useState(null);
+  const [dark, setDark] = useState(() => !!localStorage.getItem("dark"));
   const [recommends, setRecommends] = useState(() => {
   try {
     return JSON.parse(localStorage.getItem("recommends") || "{}");

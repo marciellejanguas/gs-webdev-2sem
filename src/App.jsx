@@ -71,27 +71,31 @@ export default function App() {
 
   return (
     <div className="min-h-screen p-6">
-      <header className="max-w-6xl mx-auto flex justify-between items-center mb-6">
-        <div>
-          <h1 className="text-2xl font-bold">
-            O Futuro do Trabalho Rede de Talentos
-          </h1>
-          <p className="text-sm text-slate-500">
-            Conecte, recomende e conheça profissionais.
-          </p>
-        </div>
-        <div className="flex items-center gap-3">
-          <div className="flex gap-2">
+      <header className="bg-gradient-to-r from-indigo-500/10 to-blue-500/10 dark:from-indigo-900/30 dark:to-slate-800/40 border border-transparent rounded-xl shadow-sm max-w-6xl mx-auto mb-8 p-6">
+        <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
+          <div>
+            <h1 className="text-3xl font-extrabold text-[var(--text)] leading-snug">
+              O Futuro do Trabalho <br />
+              <span className="text-[var(--accent)]">Rede de Talentos</span>
+            </h1>
+            <p className="text-sm muted mt-2 max-w-md">
+              Conecte, recomende e conheça profissionais incríveis de diversas
+              áreas.
+            </p>
+          </div>
+
+          <div className="flex flex-wrap justify-end gap-2">
             <input
-              className="px-3 py-1 rounded border"
+              className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-slate-900/40 focus:outline-none focus:ring-2 focus:ring-indigo-400 text-sm"
               placeholder="Buscar por nome ou resumo"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
             />
+
             <select
               value={areaFilter}
               onChange={(e) => setAreaFilter(e.target.value)}
-              className="px-2 py-1 rounded border"
+              className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-slate-900/40 text-sm"
             >
               <option value="">Todas as áreas</option>
               {areas.map((a) => (
@@ -100,10 +104,11 @@ export default function App() {
                 </option>
               ))}
             </select>
+
             <select
               value={cityFilter}
               onChange={(e) => setCityFilter(e.target.value)}
-              className="px-2 py-1 rounded border"
+              className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-slate-900/40 text-sm"
             >
               <option value="">Todas as cidades</option>
               {cities.map((c) => (
@@ -112,19 +117,21 @@ export default function App() {
                 </option>
               ))}
             </select>
+
             <input
               placeholder="Filtrar por tecnologia"
               value={techFilter}
               onChange={(e) => setTechFilter(e.target.value)}
-              className="px-3 py-1 rounded border"
+              className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-slate-900/40 text-sm"
             />
+
+            <button
+              onClick={() => setDark((d) => !d)}
+              className="px-4 py-2 rounded-lg border border-indigo-300 bg-[var(--accent)] text-white font-semibold shadow hover:opacity-90 transition"
+            >
+              {dark ? "Light" : "Dark"}
+            </button>
           </div>
-          <button
-            onClick={() => setDark((d) => !d)}
-            className="px-3 py-1 rounded border"
-          >
-            {dark ? "Light" : "Dark"}
-          </button>
         </div>
       </header>
 

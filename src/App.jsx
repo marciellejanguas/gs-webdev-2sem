@@ -84,7 +84,7 @@ export default function App() {
             </p>
           </div>
 
-          <div className="flex flex-wrap justify-end gap-2">
+          <div className="md:col-span-1 flex flex-col sm:flex-row sm:items-center sm:justify-end gap-3">
             <input
               className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-slate-900/40 focus:outline-none focus:ring-2 focus:ring-indigo-400 text-sm"
               placeholder="Buscar por nome ou resumo"

@@ -155,6 +155,20 @@ export default function App() {
           }}
         />
       )}
+      <footer className="mt-16 border-t border-slate-200/30 dark:border-slate-700/50 py-6">
+        <div className="max-w-6xl mx-auto text-center text-sm muted">
+          © {new Date().getFullYear()} <strong>O Futuro do Trabalho</strong> —
+          Desenvolvido por{" "}
+          <a
+            href="https://github.com/marciellejanguas"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[var(--accent)] font-medium hover:underline"
+          >
+            Majanguas
+          </a>
+        </div>
+      </footer>
     </div>
   );
 }

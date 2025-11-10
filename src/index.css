@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 :root{
-  --bg: #f6f8fb;
+  --bg: #92a0b5;
   --card: #ffffff;
-  --muted: #6b7280;
+  --muted: #0d2350;
   --text: #0f172a;
-  --accent: #6366f1; /* indigo-500 */
+  --accent: #6366f1;
   --glass: rgba(255,255,255,0.6);
 }
 

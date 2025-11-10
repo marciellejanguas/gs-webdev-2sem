@@ -7,11 +7,11 @@ export default function ProfileModal({ profile, onClose, onRecommend }) {
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4">
       <div className="bg-[var(--card)] rounded-2xl w-full max-w-3xl p-6 shadow-lg text-[var(--text)]">
-        <div className="flex justify-between">
-          <div className="flex gap-4">
+        <div className="flex justify-between items-start gap-4">
+          <div className="flex gap-4 items-center">
             <img
               src={profile.foto}
-              className="w-20 h-20 rounded-full"
+              className="muted small"
               alt={profile.nome}
             />
             <div>
@@ -26,7 +26,7 @@ export default function ProfileModal({ profile, onClose, onRecommend }) {
               onClick={() => {
                 onRecommend(profile.id);
               }}
-              className="px-3 py-1 rounded bg-emerald-500 text-white"
+              className="px-3 py-1 rounded bg-slate-100 muted"
             >
               Recomendar
             </button>
@@ -44,15 +44,15 @@ export default function ProfileModal({ profile, onClose, onRecommend }) {
             <h3 className="font-semibold">Resumo</h3>
             <p className="text-sm mt-1">{profile.resumo}</p>
 
-            <h3 className="font-semibold mt-3">Habilidades Técnicas</h3>
+            <h3 className="font-semibold mt-4">Habilidades Técnicas</h3>
             <ul className="list-disc ml-5 text-sm mt-1">
               {profile.habilidadesTecnicas?.map((h, i) => (
                 <li key={i}>{h}</li>
               ))}
             </ul>
 
-            <h3 className="font-semibold mt-3">Soft Skills</h3>
-            <div className="flex flex-wrap gap-2 mt-1">
+            <h3 className="font-semibold mt-4">Soft Skills</h3>
+            <div className="flex flex-wrap gap-2 mt-2">
               {profile.softSkills?.map((s, i) => (
                 <span
                   key={i}

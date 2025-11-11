@@ -11,7 +11,7 @@ export default function ProfileModal({ profile, onClose, onRecommend }) {
           <div className="flex gap-4 items-center">
             <img
               src={profile.foto}
-              className="muted small"
+              className="w-16 h-16 md:w-20 md:h-20 rounded-md object-cover flex-none"
               alt={profile.nome}
             />
             <div>
@@ -39,7 +39,7 @@ export default function ProfileModal({ profile, onClose, onRecommend }) {
           </div>
         </div>
 
-        <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-6 min-h-0">
           <div>
             <h3 className="font-semibold">Resumo</h3>
             <p className="text-sm mt-1">{profile.resumo}</p>
@@ -107,8 +107,8 @@ export default function ProfileModal({ profile, onClose, onRecommend }) {
                 </div>
               </>
             )}
-            <h3 className="font-semibold mt-3">Experiências</h3>
-            <div className="text-sm mt-1">
+            <h3 className="font-semibold">Experiências</h3>
+            <div className="text-sm ml-5 list-disc mt-1">
               {profile.experiencias?.map((e, i) => (
                 <div key={i} className="mb-2">
                   <div className="font-medium">

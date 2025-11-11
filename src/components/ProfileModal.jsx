@@ -83,6 +83,30 @@ export default function ProfileModal({ profile, onClose, onRecommend }) {
                 </ul>
               </>
             )}
+            {profile.idiomas && profile.idiomas.length > 0 && (
+              <>
+                <h3 className="font-semibold mt-3">Idiomas</h3>
+                <ul className="text-sm ml-5 list-disc mt-1">
+                  {profile.idiomas.map((lang, i) => (
+                    <li key={i}>
+                      {lang.idioma} — {lang.nivel}
+                    </li>
+                  ))}
+                </ul>
+              </>
+            )}
+            {profile.areaInteresses && profile.areaInteresses.length > 0 && (
+              <>
+                <h3 className="font-semibold mt-3">Interesses</h3>
+                <div className="flex flex-wrap gap-2 mt-2">
+                  {profile.areaInteresses.map((a, i) => (
+                    <span key={i} className="badge">
+                      {a}
+                    </span>
+                  ))}
+                </div>
+              </>
+            )}
             <h3 className="font-semibold mt-3">Experiências</h3>
             <div className="text-sm mt-1">
               {profile.experiencias?.map((e, i) => (

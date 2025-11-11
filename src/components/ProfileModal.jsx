@@ -73,7 +73,16 @@ export default function ProfileModal({ profile, onClose, onRecommend }) {
                 </li>
               ))}
             </ul>
-
+            {profile.certificacoes && profile.certificacoes.length > 0 && (
+              <>
+                <h3 className="font-semibold mt-3">Certificações</h3>
+                <ul className="text-sm ml-5 list-disc mt-1">
+                  {profile.certificacoes.map((cert, i) => (
+                    <li key={i}>{cert}</li>
+                  ))}
+                </ul>
+              </>
+            )}
             <h3 className="font-semibold mt-3">Experiências</h3>
             <div className="text-sm mt-1">
               {profile.experiencias?.map((e, i) => (

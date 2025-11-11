@@ -6,8 +6,8 @@ export default function ProfileModal({ profile, onClose, onRecommend }) {
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4">
-      <div className="bg-[var(--card)] rounded-2xl w-full max-w-3xl p-6 shadow-lg text-[var(--text)]">
-        <div className="flex justify-between items-start gap-4">
+      <div className="w-full max-w-3xl rounded-2xl p-4 md:p-6 card text-[var(--text)] max-h-[90vh] overflow-auto">
+        <div className="flex flex-col md:flex-row justify-between gap-4 md:items-start">
           <div className="flex gap-4 items-center">
             <img
               src={profile.foto}
@@ -39,7 +39,7 @@ export default function ProfileModal({ profile, onClose, onRecommend }) {
           </div>
         </div>
 
-        <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
             <h3 className="font-semibold">Resumo</h3>
             <p className="text-sm mt-1">{profile.resumo}</p>

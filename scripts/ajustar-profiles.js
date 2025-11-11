@@ -17,14 +17,14 @@ function ensure(value, fallback) {
 }
 
 profiles = profiles.map((p) => ({
-  id: p.id ?? Math.floor(Math.random() * 10000),
-  nome: p.nome ?? "Nome não informado",
-  foto: p.foto ?? "https://i.pravatar.cc/150",
-  cargo: p.cargo ?? "Profissional",
-  resumo: p.resumo ?? "Profissional com experiência em sua área de atuação.",
-  localizacao: p.localizacao ?? "Cidade/Estado",
-  area: p.area ?? "Desenvolvimento",
-  habilidadesTecnicas: p.habilidadesTecnicas ?? ["JavaScript", "HTML", "CSS"],
+  id: ensure(p.id ?? Math.floor(Math.random() * 10000)),
+  nome: ensure(p.nome ?? "Nome não informado"),
+  foto: ensure(p.foto ?? "https://i.pravatar.cc/150"),
+  cargo: ensure(p.cargo ?? "Profissional"),
+  resumo: ensure(p.resumo ?? "Profissional com experiência em sua área de atuação."),
+  localizacao: ensure(p.localizacao ?? "Cidade/Estado"),
+  area: ensure(p.area ?? "Desenvolvimento"),
+  habilidadesTecnicas: ensure(p.habilidadesTecnicas ?? ["JavaScript", "HTML", "CSS"]),
 
   softSkills: p.softSkills ?? ["Comunicação", "Trabalho em equipe"],
   experiencias: p.experiencias ?? [
@@ -36,20 +36,20 @@ profiles = profiles.map((p) => ({
       descricao: "Atuação em projetos de tecnologia e inovação.",
     },
   ],
-  formacao: p.formacao ?? [
+  formacao: ensure(p.formacao ?? [
     {
       curso: "Sistemas de Informação",
       instituicao: "FIAP",
       ano: 2021,
     },
-  ],
-  projetos: p.projetos ?? [
+  ]),
+  projetos: ensure(p.projetos ?? [
     {
       titulo: "Projeto Padrão",
       link: "https://example.com",
       descricao: "Projeto acadêmico para portfólio.",
     },
-  ],
+  ]),
   certificacoes: ensure(p.certificacoes ?? ["Scrum Fundamentals Certified"]),
   idiomas: ensure(p.idiomas ?? [{ idioma: "Inglês", nivel: "Intermediário" }]),
   areaInteresses: ensure(p.areaInteresses ?? ["Educação", "Tecnologia"]),

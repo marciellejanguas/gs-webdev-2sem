@@ -86,7 +86,7 @@ export default function App() {
 
           <div className="md:col-span-1 flex flex-col sm:flex-row sm:items-center sm:justify-end gap-3">
             <input
-              className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-transparent/40 focus:outline-none focus:ring-2 focus:ring-indigo-400 text-sm"
+              className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-transparent focus:outline-none focus:ring-2 focus:ring-indigo-400 text-sm"
               placeholder="Buscar por nome ou resumo"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
@@ -95,7 +95,7 @@ export default function App() {
             <select
               value={areaFilter}
               onChange={(e) => setAreaFilter(e.target.value)}
-              className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-transparent/40 text-sm"
+              className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-transparent text-sm"
             >
               <option value="">Todas as áreas</option>
               {areas.map((a) => (
@@ -108,7 +108,7 @@ export default function App() {
             <select
               value={cityFilter}
               onChange={(e) => setCityFilter(e.target.value)}
-              className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-slate-900/40 text-sm"
+              className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-transparent text-sm"
             >
               <option value="">Todas as cidades</option>
               {cities.map((c) => (
@@ -122,7 +122,7 @@ export default function App() {
               placeholder="Filtrar por tecnologia"
               value={techFilter}
               onChange={(e) => setTechFilter(e.target.value)}
-              className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-slate-900/40 text-sm"
+              className="px-3 py-2 rounded-lg border border-slate-300 bg-white/70 dark:bg-transparent text-sm"
             />
 
             <button

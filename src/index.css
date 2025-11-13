@@ -8,7 +8,7 @@
   --muted: #0d2350;
   --text: #6a656b;
   --accent: #a797b1;
-  --glass: rgba(255, 255, 255, 0.6);
+  --glass: rgba(62, 62, 62, 0.6);
 }
 
 .dark {
@@ -17,7 +17,7 @@
   --muted: #ffffff;
   --text: #a39898;
   --accent: #9d94ad;
-  --glass: rgba(255, 255, 255, 0.04);
+  --glass: rgba(168, 158, 158, 0.04);
 }
 
 body {

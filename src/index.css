@@ -7,7 +7,7 @@
   --card: #cfcad8;
   --muted: #0d2350;
   --text: #6a656b;
-  --accent: #bab7bc;
+  --accent: #a797b1;
   --glass: rgba(255, 255, 255, 0.6);
 }
 
@@ -58,7 +58,7 @@ body {
 }
 
 .btn-accent {
-  background: linear-gradient(90deg, #cec0d5, #4f46e5);
+  background: linear-gradient(90deg, #cec0d5, #5f5d8b);
   color: white;
   padding: 8px 12px;
   border-radius: 10px;
@@ -71,7 +71,7 @@ body {
 }
 
 .modal-backdrop {
-  background: linear-gradient(180deg,rgba(8, 40, 183, 0.45),rgba(2, 6, 23, 0.6));
+  background: linear-gradient(180deg,rgba(37, 41, 60, 0.45),rgba(2, 6, 23, 0.6));
   max-height: 90vh;
   overflow: auto;
 }

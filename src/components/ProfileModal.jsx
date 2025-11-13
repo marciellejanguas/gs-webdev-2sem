@@ -136,7 +136,7 @@ export default function ProfileModal({ profile, onClose, onRecommend }) {
                   alert("Mensagem enviada (simulada): " + msg);
                   setMsg("");
                 }}
-                className="px-3 py-1 rounded bg-blue-600 text-white"
+                className="px-3 py-1 rounded bg-slate-100 muted"
               >
                 Enviar mensagem
               </button>

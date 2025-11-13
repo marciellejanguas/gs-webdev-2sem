@@ -84,8 +84,8 @@ gs-webdev-2sem/
 
 ## Pré-requisitos
 
-Node.js v18+
-npm
+- Node.js v18+
+- npm
 
 ## Verificar versões:
 
@@ -95,8 +95,8 @@ npm
 
 ## Como obter o projeto
 
-git clone https://github.com/marciellejanguas/gs-webdev-2sem
-cd gs-webdev-2sem
+- git clone https://github.com/marciellejanguas/gs-webdev-2sem
+- cd gs-webdev-2sem
 
 ## Instalar dependências
 
@@ -106,9 +106,9 @@ npm install
 
 ## Gerar dados de teste (opcional)
 
-Gera 60 perfis falsos em src/data/profiles.json:
-node scripts/generate-profiles.js
-saída esperada: Gerados 60 perfis em src/data/profiles.json
+- Gera 60 perfis falsos em src/data/profiles.json:
+- node scripts/generate-profiles.js
+- saída esperada: Gerados 60 perfis em src/data/profiles.json
 
 ## Executar em modo desenvolvimento
 
